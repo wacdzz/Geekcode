@@ -1,2 +1,9 @@
 //REVERSE WORDS IN A STRING
 //use stack to restore words and pop out them reversely.
+
+reverse(){
+  string s = "a b c";
+  int i = 0;
+  if(s.at(i) == ' '){
+    push}
+}
